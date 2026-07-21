@@ -1,3 +1,14 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Compiled output
+out/
+target/
+
+# Game save files (runtime-generated, not source)
+*.bin
+
 # Compiled class file
 *.class
 
